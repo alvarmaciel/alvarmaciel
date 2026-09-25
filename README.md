@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Nix - Python - Rust
 - 💞️ I’m looking to collaborate on 🤷‍♂️
 - 📫 How to reach me alvarmacielATgmail.com
-- or in my site: [https://alvarmaicel.github,io](https://alvarmaicel.github,io)
+- or in my site: [https://alvarmaicel.github.io](https://alvarmaicel.github.io)
 
